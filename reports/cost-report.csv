@@ -1,0 +1,6 @@
+Resource Type,Resource ID,Status,Recommended Action
+EC2,i-0bcc593c4e07699ae,running,No Action Required
+EBS,vol-0e5e9186335ca0ef9,In Use,No Action Required
+S3,config-bucket-423537160223,In Use,No Action Required
+S3,dhudhate-bucket,In Use,No Action Required
+S3,shubham-drift-demo-2026-unique,Empty,Review/Delete
